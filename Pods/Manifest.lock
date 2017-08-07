@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Cache (3.3.0):
+    - SwiftHash (~> 1.4.0)
+  - FSCalendar (2.7.9)
+  - Kingfisher (3.10.2)
+  - SwiftHash (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Cache
+  - FSCalendar
+  - Kingfisher (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Cache: 871805a8a7268feac34f5c10c54506801f0bd4cd
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  Kingfisher: 7297492bf8cec9b2e2dee3519f2219948580d98e
+  SwiftHash: acf0f29032309a5c7a7f625595eade1aca97aca2
+
+PODFILE CHECKSUM: 9d6f13f4ad4e01e1292b4218e771b4fb376bfdfc
+
+COCOAPODS: 1.2.1

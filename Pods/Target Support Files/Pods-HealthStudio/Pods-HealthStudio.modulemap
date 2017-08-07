@@ -1,0 +1,6 @@
+framework module Pods_HealthStudio {
+  umbrella header "Pods-HealthStudio-umbrella.h"
+
+  export *
+  module * { export * }
+}
